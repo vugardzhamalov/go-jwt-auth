@@ -9,6 +9,16 @@ like logger, database, etc. So I decided to create a template with everything al
 All the project is based in interfaces that mean you can implement your own logic and use it in the project.
 example: you can use different database like Postgres, MySQL, etc. Just implement the interface and use it.
 
+## Medium
+
+Original article on [medium](https://cgarciarosales97.medium.com/hexagonal-architecture-using-go-fiber-b2925fd677b5)
+
+## GitHub
+
+Original [repo](https://github.com/solrac97gr/go-hexagonal-blog)
+
+Newer [repo (current fork)](https://github.com/solrac97gr/go-jwt-auth)
+
 ## Stack
 - Router: [Fiber 🚀](https://gofiber.io)
 - Database: [Mongo 💾](https://www.mongodb.com/docs/drivers/go/current/) 
